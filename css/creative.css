@@ -303,10 +303,6 @@ header.masthead p {
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  color: #eb8a3e;
-  background-color: #eb8a3e !important;
-}
-
-.btn-primary:active, .btn-primary:focus {
-  box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
+  color: #DDBC95;
+  background-color: #DDBC95 !important;
 }
